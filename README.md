@@ -31,4 +31,13 @@ more complete setting.
 ## The Results
 My internship ended just as I got the game up and running on the Museum's computer unfortunately. But this game was a big step in contributing to code **that matters** and being able
 to work with an artist on this project was truly an amazing experience. The process was dificult, and I found myself tangling at online resources, but I'm proud of my and Cindy's work!
-The file is posted above. You can copy this file to a txt document, and then drag that document to Pico-8 if you want to play (and code!) this wonderfully simple game!
+
+### Steps to play
+The file (momigame_3.p8) is posted above. 
+1) Copy the **entire** file (momigame_3.p8) to a text document (TextEdit, Notepad, VS Code).
+2) Name the text document, and save that text document as extension **.p8**. (ex: mygame.p8)
+3) Locate where you saved that .p8 file and move that file to where your Pico-8 carts folder is located on your system (if you don't know, you can type FOLDER in the command line of Pico-8).
+4) In Pico-8, at the command line type LOAD *mygame.p8*. Replace *mygame.p8* with the name of your file.
+5) Run the file!
+
+You can view all the amazing art, and code to your heart's content. There's an intentional bug to allow you as the player to add movement to the character. Hope you enjoy! (and break the game).
