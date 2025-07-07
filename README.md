@@ -2,7 +2,7 @@
 As part of my internship with the Museum of Moving of Image through my status as a CUNY Cultural Corp student, I decided to create a game that helped push museum goers
 to attempt to try their hand at coding!
 The Museum of Moving Image uses Pico-8 as tool to teach video game programming, so I set out to figure out a fun and interesting way to get more people involved.
-I partnered with Cindy Liu, an graphic design artist and the museum, and we set off to create a game inspired by the aesthetics of the Museum of Moving Image.
+I partnered with Cindy Liu, a graphic design artist and the museum, and we set off to create a game inspired by the aesthetics of the Museum of Moving Image.
 
 ## The Goal
 The goal was to get mueseum visitors to try their hand at coding. I realized how difficult and off putting initial code is, so I attempted to do **two** things.
